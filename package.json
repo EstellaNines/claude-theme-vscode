@@ -2,8 +2,9 @@
   "name": "claude-theme-vscode",
   "displayName": "Claude Theme VS Code",
   "description": "Warm light and dark VS Code themes inspired by Claude Code.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "local",
+  "license": "MIT",
   "icon": "icon.png",
   "repository": {
     "type": "git",
