@@ -4,6 +4,14 @@
   "description": "Warm light and dark VS Code themes inspired by Claude Code.",
   "version": "0.0.1",
   "publisher": "local",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EstellaNines/claude-theme-vscode.git"
+  },
+  "homepage": "https://github.com/EstellaNines/claude-theme-vscode#readme",
+  "bugs": {
+    "url": "https://github.com/EstellaNines/claude-theme-vscode/issues"
+  },
   "engines": {
     "vscode": "^1.99.0"
   },
