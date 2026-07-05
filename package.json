@@ -1,0 +1,27 @@
+{
+  "name": "claude-theme-vscode",
+  "displayName": "Claude Theme VS Code",
+  "description": "Warm light and dark VS Code themes inspired by Claude Code.",
+  "version": "0.0.1",
+  "publisher": "local",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Claude Code Light",
+        "uiTheme": "vs",
+        "path": "./themes/claude-code-light-color-theme.json"
+      },
+      {
+        "label": "Claude Code Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/claude-code-dark-color-theme.json"
+      }
+    ]
+  }
+}
